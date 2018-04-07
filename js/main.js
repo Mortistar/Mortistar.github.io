@@ -29,6 +29,8 @@ var urls = [
     {id:"343982116", name:"Bat Boy"},
     {id:"343982113", name:"Ahoy There!"},
     {id:"343982112", name:"Frozen Castle"}
+	{id:"419896772", name:"Sky Fisher: Overworld"}
+	{id:"419896784", name:"Sky Fisher: Shop"}
 ]
 var index = 0;
 var options = [];

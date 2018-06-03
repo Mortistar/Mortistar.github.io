@@ -27,10 +27,11 @@ var urls = [
     {id:"343982120", name:"Pizza"},
     {id:"343982119", name:"Lapping Waves"},
     {id:"343982116", name:"Bat Boy"},
-    {id:"343982113", name:"Ahoy There!"},
-    {id:"343982112", name:"Frozen Castle"},
-	  {id:"419896772", name:"Sky Fisher: Overworld"},
-	  {id:"419896784%3Fsecret_token%3Ds-cE6qs", name:"Sky Fisher: Shop"}
+    {id:"453207072%3Fsecret_token%3Ds-X77uj", name:"Restless Crypt"},
+    {id:"453211890%3Fsecret_token%3Ds-feFFh", name:"Meadowlands"},
+	{id:"453216048%3Fsecret_token%3Ds-KUQPz", name:"DOGBOSS"},
+	{id:"419896772%3Fsecret_token%3Ds-KktnH", name:"Sky Fisher: Overworld"},
+	{id:"419896784%3Fsecret_token%3Ds-cE6qs", name:"Sky Fisher: Shop"}
 ]
 var index = 0;
 var options = [];

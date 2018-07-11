@@ -171,12 +171,64 @@ body {
     font-size: 26px;
 }
 
+#change-playlist-text {
+    display:inline-block;
+    position: relative;
+    color: #fff;
+    font-family: BitPotion;
+    font-size: 26px;
+}
+
+.playlist-content-text {
+    color: #fff;
+    font-family: BitPotion;
+    font-size: 26px;
+    margin: 0;
+    padding-left: 10px;
+}
+
 #logo{
     position:absolute;
     text-align: center;
     top: calc(20vh - 100px);
     width:100%;
 }
+
+#playlist-dropup{
+    position: absolute;
+    left:0;
+    bottom:30px;
+}
+
+.playlist-dropup-content{
+    cursor:pointer;
+    position:relative;
+    display:block;
+    width: 220px;
+    height: 30px;
+    padding-bottom: 5px;
+    background-color: #303030;
+}
+
+.unselected-content{
+    color: white;
+    border-bottom: 5px solid #404040;
+}
+
+.selected-content{
+    color: white;
+    border-bottom: 5px solid #1170be;
+}
+
+.noselect {
+    -webkit-touch-callout: none; /* iOS Safari */
+      -webkit-user-select: none; /* Safari */
+       -khtml-user-select: none; /* Konqueror HTML */
+         -moz-user-select: none; /* Firefox */
+          -ms-user-select: none; /* Internet Explorer/Edge */
+              user-select: none; /* Non-prefixed version, currently
+                                    supported by Chrome and Opera */
+  }
 
 @media screen and (max-width: 550px) {
     .player {

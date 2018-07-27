@@ -29,7 +29,7 @@ var playlists = [
         {id:"336462999", name:"Leaf Town"},
         {id:"453211890%3Fsecret_token%3Ds-feFFh", name:"Meadowlands"}
 
-    ]}
+    ]},
 	{name: "Chiptune", urls: [
 		{id:"343982122", name:"Not So Humble Beginnings"},
 		{id:"336462999", name:"Leaf Town"},
@@ -45,18 +45,18 @@ var playlists = [
         {id:"477637125%3Fsecret_token%3Ds-c0ji6", name:"Blossom"},
         {id:"343982119", name:"Lapping Waves"},
         {id:"343982116", name:"Bat Boy"}
-    ]}
+    ]},
 	{name: "Orchestral Hybrid", urls: [
 		{id:"453207072%3Fsecret_token%3Ds-X77uj", name:"Restless Crypt"},
 		{id:"419896772%3Fsecret_token%3Ds-KktnH", name:"Sky Fisher: Overworld"},
 		{id:"477640437%3Fsecret_token%3Ds-vzyO2", name:"Gleaming Forest"},
         {id:"419896784%3Fsecret_token%3Ds-cE6qs", name:"Sky Fisher: Shop"}
-    ]}
+    ]},
 	{name: "Orchestral", urls: [
 		{id:"453211890%3Fsecret_token%3Ds-feFFh", name:"Meadowlands"},
 		{id:"477637272%3Fsecret_token%3Ds-x5kRY", name:"Blossom"},
 		{id:"477640038%3Fsecret_token%3Ds-ABQ4u", name:"Fields of Bloom"}
-    ]}
+    ]},
 	{name: "Misc", urls: [
 		{id:"453216048%3Fsecret_token%3Ds-KUQPz", name:"DOGBOSS"},
 		{id:"477640650%3Fsecret_token%3Ds-4Sojb", name:"Lucky Towers Theme"},

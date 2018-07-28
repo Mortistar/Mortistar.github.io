@@ -28,7 +28,6 @@ var playlists = [
 		{id:"477640437%3Fsecret_token%3Ds-vzyO2", name:"Gleaming Forest"},
         {id:"336462999", name:"Leaf Town"},
         {id:"453211890%3Fsecret_token%3Ds-feFFh", name:"Meadowlands"}
-
     ]},
 	{name: "Chiptune", urls: [
 		{id:"343982122", name:"Not So Humble Beginnings"},
@@ -59,29 +58,17 @@ var playlists = [
     ]},
 	{name: "Misc", urls: [
 		{id:"453216048%3Fsecret_token%3Ds-KUQPz", name:"DOGBOSS"},
+		{id:"477701751%3Fsecret_token%3Ds-JhTqm", name:"Transistor"},
 		{id:"477640650%3Fsecret_token%3Ds-4Sojb", name:"Lucky Towers Theme"},
-		{id:"477641274%3Fsecret_token%3Ds-Wp3ta", name:"Layers Plus Challenge Mode"}
+		{id:"477701952%3Fsecret_token%3Ds-r26b1", name:"The Mall"},
+		{id:"477641274%3Fsecret_token%3Ds-Wp3ta", name:"Layers Plus Challenge Mode"},
+		{id:"477702090%3Fsecret_token%3Ds-2splc", name:"Cracked Neon"}
     ]}
 ]
 var selectedPlaylist = 0;
 var playlistShowing = false;
 
 var url = "https://api.soundcloud.com/tracks/";
-var urls = [
-    {id:"343982131", name:"Sunset"},
-    {id:"343982127", name:"Coral Bay"},
-    {id:"343982125", name:"Bullet Train"},
-    {id:"343982123", name:"Scarab"},
-    {id:"343982122", name:"Not So Humble Beginnings"},
-    {id:"343982120", name:"Pizza"},
-    {id:"343982119", name:"Lapping Waves"},
-    {id:"343982116", name:"Bat Boy"},
-    {id:"453207072%3Fsecret_token%3Ds-X77uj", name:"Restless Crypt"},
-    {id:"453211890%3Fsecret_token%3Ds-feFFh", name:"Meadowlands"},
-	{id:"453216048%3Fsecret_token%3Ds-KUQPz", name:"DOGBOSS"},
-	{id:"419896772%3Fsecret_token%3Ds-KktnH", name:"Sky Fisher: Overworld"},
-	{id:"419896784%3Fsecret_token%3Ds-cE6qs", name:"Sky Fisher: Shop"}
-]
 var index = 0;
 var options = [];
 options.auto_play = false;

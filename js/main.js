@@ -22,47 +22,47 @@ var playlists = [
 		{id:"343982122", name:"Not So Humble Beginnings"},
         {id:"419896772%3Fsecret_token%3Ds-KktnH", name:"Sky Fisher: Overworld"},
         {id:"343982125", name:"Bullet Train"},
-        {id:"453207072%3Fsecret_token%3Ds-X77uj", name:"Restless Crypt"},
-		{id:"453216048%3Fsecret_token%3Ds-KUQPz", name:"DOGBOSS"},
+        {id:"453207072", name:"Restless Crypt"},
+		{id:"453216048", name:"DOGBOSS"},
         {id:"343982120", name:"Pizza"},
-		{id:"477640437%3Fsecret_token%3Ds-vzyO2", name:"Gleaming Forest"},
+		{id:"477640437", name:"Gleaming Forest"},
         {id:"336462999", name:"Leaf Town"},
-        {id:"453211890%3Fsecret_token%3Ds-feFFh", name:"Meadowlands"}
+        {id:"453211890", name:"Meadowlands"}
     ]},
 	{name: "Chiptune", urls: [
 		{id:"343982122", name:"Not So Humble Beginnings"},
 		{id:"336462999", name:"Leaf Town"},
 		{id:"343982120", name:"Pizza"},
-		{id:"477636498%3Fsecret_token%3Ds-K8eu7", name:"Icicle Cave"},
+		{id:"477636498", name:"Icicle Cave"},
         {id:"343982131", name:"Sunset"},
-		{id:"477635823%3Fsecret_token%3Ds-sGbtw", name:"Dreams of a Lost Hamlet"},
+		{id:"477635823", name:"Dreams of a Lost Hamlet"},
         {id:"343982127", name:"Coral Bay"},
-		{id:"453210408%3Fsecret_token%3Ds-U93nn", name:"MainThemeVania"},
+		{id:"453210408", name:"MainThemeVania"},
         {id:"343982125", name:"Bullet Train"},
 		{id:"477641256%3Fsecret_token%3Ds-tWEzI", name:"Layers Plus Theme"},
         {id:"343982123", name:"Scarab"},
-        {id:"477637125%3Fsecret_token%3Ds-c0ji6", name:"Blossom"},
+        {id:"477637125", name:"Blossom: Echoes"},
         {id:"343982119", name:"Lapping Waves"},
         {id:"343982116", name:"Bat Boy"}
     ]},
 	{name: "Orchestral Hybrid", urls: [
-		{id:"453207072%3Fsecret_token%3Ds-X77uj", name:"Restless Crypt"},
+		{id:"453207072", name:"Restless Crypt"},
 		{id:"419896772%3Fsecret_token%3Ds-KktnH", name:"Sky Fisher: Overworld"},
-		{id:"477640437%3Fsecret_token%3Ds-vzyO2", name:"Gleaming Forest"},
+		{id:"477640437", name:"Gleaming Forest"},
         {id:"419896784%3Fsecret_token%3Ds-cE6qs", name:"Sky Fisher: Shop"}
     ]},
 	{name: "Orchestral", urls: [
-		{id:"453211890%3Fsecret_token%3Ds-feFFh", name:"Meadowlands"},
-		{id:"477637272%3Fsecret_token%3Ds-x5kRY", name:"Blossom"},
-		{id:"477640038%3Fsecret_token%3Ds-ABQ4u", name:"Fields of Bloom"}
+		{id:"453211890", name:"Meadowlands"},
+		{id:"477637272%3Fsecret_token%3Ds-x5kRY", name:"Blossom: Echoes"},
+		{id:"477640038", name:"Fields of Bloom"}
     ]},
 	{name: "Misc", urls: [
-		{id:"453216048%3Fsecret_token%3Ds-KUQPz", name:"DOGBOSS"},
-		{id:"477701751%3Fsecret_token%3Ds-JhTqm", name:"Transistor"},
+		{id:"453216048", name:"DOGBOSS"},
+		{id:"477701751", name:"Transistor"},
 		{id:"477640650%3Fsecret_token%3Ds-4Sojb", name:"Lucky Towers Theme"},
-		{id:"477701952%3Fsecret_token%3Ds-r26b1", name:"The Mall"},
+		{id:"477701952", name:"The Mall"},
 		{id:"477641274%3Fsecret_token%3Ds-Wp3ta", name:"Layers Plus Challenge Mode"},
-		{id:"477702090%3Fsecret_token%3Ds-2splc", name:"Cracked Neon"}
+		{id:"477702090", name:"Cracked Neon"}
     ]}
 ]
 var selectedPlaylist = 0;

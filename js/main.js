@@ -19,50 +19,56 @@ function shuffle(array) {
 
 var playlists = [
     {name: "Showreel", urls: [
-		{id:"343982122", name:"Not So Humble Beginnings"},
+		{id:"647150046", name:"Widow's Lament"},
+		{id:"551815563", name:"Phylactery"},
+		{id:"585273258", name:"The Old Barn"},
         {id:"419896772%3Fsecret_token%3Ds-KktnH", name:"Sky Fisher: Overworld"},
-        {id:"343982125", name:"Bullet Train"},
-        {id:"453207072", name:"Restless Crypt"},
-		{id:"453216048", name:"DOGBOSS"},
-        {id:"343982120", name:"Pizza"},
-		{id:"477640437", name:"Gleaming Forest"},
-        {id:"336462999", name:"Leaf Town"},
-        {id:"453211890", name:"Meadowlands"}
-    ]},
-	{name: "Chiptune", urls: [
-		{id:"343982122", name:"Not So Humble Beginnings"},
-		{id:"336462999", name:"Leaf Town"},
-		{id:"343982120", name:"Pizza"},
-		{id:"477636498", name:"Icicle Cave"},
-        {id:"343982131", name:"Sunset"},
-		{id:"477635823", name:"Dreams of a Lost Hamlet"},
-        {id:"343982127", name:"Coral Bay"},
-		{id:"453210408", name:"MainThemeVania"},
-        {id:"343982125", name:"Bullet Train"},
-		{id:"477641256%3Fsecret_token%3Ds-tWEzI", name:"Layers Plus Theme"},
-        {id:"343982123", name:"Scarab"},
-        {id:"477637125", name:"Blossom: Echoes"},
-        {id:"343982119", name:"Lapping Waves"},
-        {id:"343982116", name:"Bat Boy"}
-    ]},
-	{name: "Orchestral Hybrid", urls: [
-		{id:"453207072", name:"Restless Crypt"},
-		{id:"419896772%3Fsecret_token%3Ds-KktnH", name:"Sky Fisher: Overworld"},
-		{id:"477640437", name:"Gleaming Forest"},
-        {id:"419896784%3Fsecret_token%3Ds-cE6qs", name:"Sky Fisher: Shop"}
+		{id:"623320587", name:"Set Sail!"},
+		{id:"551814861", name:"Sunken Wastes"},
+		{id:"642744990", name:"Sea Chest Shanty"}
     ]},
 	{name: "Orchestral", urls: [
-		{id:"453211890", name:"Meadowlands"},
-		{id:"477637272%3Fsecret_token%3Ds-x5kRY", name:"Blossom: Echoes"},
+		{id:"647150046", name:"Widow's Lament"},
+		{id:"647163573", name:"An'Khaset"},
+		{id:"585273258", name:"The Old Barn"},
+		{id:"643948218", name:"Desert Winds"},
 		{id:"477640038", name:"Fields of Bloom"}
     ]},
-	{name: "Misc", urls: [
+	{name: "Orchestral Hybrid", urls: [
+		{id:"477640437", name:"Gleaming Forest"},
+		{id:"453207072", name:"Restless Crypt"},
+		{id:"419896772%3Fsecret_token%3Ds-KktnH", name:"Sky Fisher: Overworld"},
+		{id:"599890308", name:"Lapping Waves"},
 		{id:"453216048", name:"DOGBOSS"},
-		{id:"477701751", name:"Transistor"},
-		{id:"477640650%3Fsecret_token%3Ds-4Sojb", name:"Lucky Towers Theme"},
-		{id:"477701952", name:"The Mall"},
-		{id:"477641274%3Fsecret_token%3Ds-Wp3ta", name:"Layers Plus Challenge Mode"},
-		{id:"477702090", name:"Cracked Neon"}
+        {id:"419896784%3Fsecret_token%3Ds-cE6qs", name:"Sky Fisher: Shop"}
+    ]},
+	{name: "Traditional/Folk", urls: [
+        {id:"642744990", name:"Sea Chest Shanty"},
+		{id:"572384781", name:"Redwood Inn"},
+		{id:"640691292", name:"Lament of the Devout"}
+    ]},
+	{name: "Chiptune", urls: [
+		{id:"551815563", name:"Phylactery"},
+		{id:"616079187", name:"Our Tale Begins!"},
+		{id:"336462999", name:"Leaf Town"},
+		{id:"623320587", name:"Set Sail!"},
+		{id:"569826369", name:"Lichcraft"},
+        {id:"477637125", name:"Blossom: Echoes"},
+		{id:"477636498", name:"Icicle Cave"}
+    ]},
+	{name: "Space/Synthwave", urls: [
+
+        {id:"603638055", name:"Station SOL-189"},
+		{id:"600553950", name:"Touched By Starlight"},
+		{id:"477702090", name:"Cracked Neon"},
+		{id:"601136793", name:"Astral Fracture"}
+		
+    ]},
+	{name: "Misc", urls: [
+		{id:"551814861", name:"Sunken Wastes"},
+		{id:"604179708", name:"The Wire"},
+		{id:"602107185", name:"Sleepy Head"}
+
     ]}
 ]
 var selectedPlaylist = 0;

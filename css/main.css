@@ -101,6 +101,10 @@ textarea {
     font-family: BitPotion;
     src: url(../fonts/BitPotionExt.ttf);
 }
+p {
+    font-family: BitPotion;
+    font-size: 32px;
+}
 
 body {
     background-color:#fff;
@@ -191,6 +195,18 @@ body {
     position:absolute;
     text-align: center;
     top: calc(20vh - 100px);
+    width:100%;
+}
+#logo{
+    position:absolute;
+    text-align: center;
+    top: calc(20vh - 100px);
+    width:100%;
+}
+#bio {
+    position:absolute;
+    text-align: center;
+    top: calc(20vh + 160px);
     width:100%;
 }
 

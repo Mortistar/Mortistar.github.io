@@ -178,6 +178,9 @@ function nextTrack () {
 $(document).ready(function() {
     generatePlaylistContainer();
 
+    $('#twitter').addClass('animated fadeInLeft');
+    $('#twitter').removeClass('hidden');
+
     $('#youtube').addClass('animated fadeInLeft');
     $('#youtube').removeClass('hidden');
 
